@@ -16,7 +16,7 @@
 
 <body class="indexBody">
     <h1>
-    ⚡ Team PHPower ⚡
+    ⚡ Team PHP Power ⚡
     </h1>
     <div>
         <img src="/pictures/montageteam.png" alt="Notre super équipe au complet">
@@ -37,7 +37,7 @@
             <br>
             <br>
             <br>
-            ........................ 
+            .....
             <br>
             <br>
             <br>
